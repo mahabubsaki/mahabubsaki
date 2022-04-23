@@ -35,7 +35,7 @@ Skills: REACT / JS / HTML / CSS / SCSS / BOOTSTRAP / TAILWIND / MATERIAL UI / NO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubsaki)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubsaki&show_icons=true&count_private=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubsaki&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahabubsaki)  
 
