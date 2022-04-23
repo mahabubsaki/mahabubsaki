@@ -1,6 +1,6 @@
+![MERN Stack developer](https://i.ibb.co/9nbhzyW/New-Project.jpg)
 ### Hi there 👋,I'm Mahabub Saki
 #### MERN Stack developer
-![MERN Stack developer](https://i.ibb.co/9nbhzyW/New-Project.jpg)
 
 I am mainly a frontend developer with react framework. My flexible CSS framework is bootstrap and tailwind .  I also able to do some server side production by NodeJS with Express JS. Mongo dB is my preferred database for store my data.
 
