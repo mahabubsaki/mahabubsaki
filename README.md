@@ -1,15 +1,28 @@
-### Hi there 👋
+### Hi there 👋, Mahabub Saki
+#### MERN Stack developer
+![MERN Stack developer](https://i.ibb.co/9nbhzyW/New-Project.jpg)
 
-**mahabubsaki/mahabubsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am mainly a frontend developer with react framework. My flexible CSS framework is bootstrap and tailwind .  I also able to do some server side production by NodeJS with Express JS. Mongo dB is my preferred database for store my data.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / SCSS / BOOTSTRAP / TAILWIND / MATERIAL UI / NODE / EXPRESS / FIREBASE / MONGODB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Node JS 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web development 
+- 📫 How to reach me: mcr21191999@gmail.com 
+- ⚡ Fun fact: Learned mern stack within 6 months 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahabubsaki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mahabubsaki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahabubsaki/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahabubsaki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahabub_saki/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MahabubSaki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mahabubsaki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18127142)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubsaki)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubsaki&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahabubsaki)  
+
+![GitHub metrics](https://metrics.lecoq.io/mahabubsaki)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahabubsaki)  
+
+![Profile views](https://gpvc.arturio.dev/mahabubsaki)  
