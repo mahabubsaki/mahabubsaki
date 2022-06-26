@@ -38,16 +38,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="200px"/>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahabubsaki)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahabubsaki)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubsaki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubsaki&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahabubsaki&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahabubsaki)  
 
