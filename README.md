@@ -7,13 +7,8 @@
 
 I am mainly a frontend developer with react framework. My flexible CSS framework is bootstrap and tailwind .  I also able to do some server side production by NodeJS with Express JS. Mongo dB is my preferred database for store my data.
 
-Skills: REACT / JS / HTML / CSS / SCSS / BOOTSTRAP / TAILWIND / MATERIAL UI / NODE / EXPRESS / FIREBASE / MONGODB
-
-- 🌱 I’m currently learning Node JS 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web development 
-- 📫 How to reach me: mcr21191999@gmail.com 
-- ⚡ Fun fact: Learned mern stack within 6 months 
+# 💫 About Me:
+🔭 I’m currently working on Splash Project<br>👯 I’m looking to collaborate on Any React Project<br>🤝 I’m looking for help with Graph QL<br>🌱 I’m currently learning Next JS<br>💬 Ask me about React JS<br>⚡ Fun fact needed 1 week to understand the div tag in HTML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
