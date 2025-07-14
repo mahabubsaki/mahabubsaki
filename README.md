@@ -20,7 +20,7 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mahabubsaki)](https://codeforces.com/profile/mahabubsaki)
 
-
+[![wakatime](https://wakatime.com/badge/user/021f04c9-3fd4-4f48-8bed-8efcea26c853.svg)](https://wakatime.com/@021f04c9-3fd4-4f48-8bed-8efcea26c853)
 
 # Wakatime Statistics:
 <a href="https://wakatime.com/@mahabubsaki">
